@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556162492665",
+    "project_id": "chatbot-app-07",
+    "storage_bucket": "chatbot-app-07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556162492665:android:4657c63a64ade797c81a28",
+        "android_client_info": {
+          "package_name": "com.ovrsenssy.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcIOCLc-ihuL6WnBOH7H8QxIghtdWVW3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
